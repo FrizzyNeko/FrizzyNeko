@@ -1,4 +1,6 @@
 <div align="center">
+ 
+  # <img width="2007" height="715" alt="github" src="https://github.com/user-attachments/assets/f8064e58-8dc6-4c68-9091-d646fb48c364" />
 
 # FrizzyNeko
 
@@ -27,7 +29,7 @@ My goal is to bridge the gap between **art and engineering** — creating games,
 * 2D/3D animation & technical art
 * Computer systems, hardware & Windows administration
 * B.A. Cartoon & Animation · B.S. Management Information Systems
-
+  
 ---
 
 ## Tech Stack

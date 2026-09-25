@@ -18,6 +18,8 @@
 
 I'm a multidisciplinary **Game Developer and Technical Artist** with a background in **Cartoon & Animation**.
 
+I am the founder of **FrizzyNeko**, my solo indie game studio, and the co-founder of **Amory Game Studio**.
+
 I build games with **Unity (C#)** and **GameMaker (GML)**, while combining programming with 2D illustration, pixel art, character design, and animation.
 
 My goal is to bridge the gap between **art and engineering** — creating games, tools, systems, and production pipelines where technical and creative skills work together.
@@ -69,37 +71,29 @@ My goal is to bridge the gap between **art and engineering** — creating games,
 
 ## Featured Projects
 
-### Project Lacuna
-
-**2D Narrative Horror / Puzzle Game**
-
-A story-driven project built around infiltration, examination mechanics, exploration, and a dystopian school environment.
-
-**Tech:** Unity · C# · Obsidian
-
-Currently focused on gameplay systems, architecture, level design, and narrative development.
+### Project Lacuna - Currently Working On
+**2D Narrative Horror & Puzzle Project**  
+A story-driven dystopian psychological horror centered around infiltration, environmental examination mechanics, and narrative exploration. Currently developing core gameplay architecture, interaction systems, and level design.
+- **Tech:** Unity · C# · Obsidian (GDD)
 
 ---
+
+### Crush On You!
+
+<img width="497" height="394" alt="+xszVZ" src="https://github.com/user-attachments/assets/f7033484-49a6-4211-ad2e-4e3662f8b8e0" />
+
+**Amory Game Studio Project** — [Source](https://github.com/FrizzyNeko/jam-games)  
+A 2D narrative/mechanic-driven project published on Itch.io under Amory Game Studio. Built focusing on core gameplay loops, character artwork, and rapid game architecture in GameMaker.
+- **Tech:** GameMaker · GML · 2D Art Assets
 
 ### Spore The Boss
 
-**GameMaker Game Jam Project**
+<img width="1920" height="1080" alt="frizzy-neko-sporetheboss" src="https://github.com/user-attachments/assets/9460d509-eb91-4f42-8f64-c616284b49e1" />
 
-Ranked **Top 20 out of 255 teams** at StartGate Game Jam '25.
-
-Responsible for the game's programming and visual production, including character design, illustrations, sprites, and gameplay implementation under a strict game-jam deadline.
-
-**Tech:** GameMaker · GML · 2D Art
-
----
-
-### Gem Dash
-
-**Procedural Mobile Game**
-
-A mobile prototype focused on procedural gameplay, object pooling, performance optimization, and mobile-specific systems.
-
-**Tech:** Unity · C#
+**Amory Game Studio Project** — [Source](https://github.com/FrizzyNeko/jam-games)  
+**StartGate Game Jam '25 — Ranked Top 20 / 255 Teams** 
+Designed and programmed under strict game-jam constraints. Single-handedly created all visual concepts, character sprite sheets, and gameplay logic during the event.
+- **Tech:** GameMaker · GML · 2D Art Assets
 
 ---
 

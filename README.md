@@ -2,72 +2,141 @@
 
 # FrizzyNeko
 
-**Game Developer | Technical Artist | Software Developer**
+### Game Developer · Technical Artist · Software Developer
 
-[Linktree](https://linktr.ee/frizzyneko) | [ArtStation](https://artstation.com/frizzyneko)
+**Unity / C# · GameMaker / GML · 2D Art · Animation**
+
+[Linktree](https://linktr.ee/frizzyneko) · [ArtStation](https://artstation.com/frizzyneko)
 
 </div>
 
 ---
 
-## Profile Overview
+## About Me
 
-Multidisciplinary Game Developer and Technical Artist specializing in Unity (C#) and GameMaker (GML) mechanics, 2D illustration, character design, and animation pipelines.
+I'm a multidisciplinary **Game Developer and Technical Artist** with a background in **Cartoon & Animation**.
 
-Founder of FrizzyNeko and Co-Founder of Amory Game Studio with a B.A. in Cartoon & Animation and currently pursuing a B.S. in Management Information Systems (MIS). Combines technical programming proficiency in C#/.NET with a strong artistic foundation to build scalable game architectures, custom tools, and engaging visual experiences. Possesses strong overall technical knowledge of computer systems, hardware diagnostics, and enterprise software environments.
+I build games with **Unity (C#)** and **GameMaker (GML)**, while combining programming with 2D illustration, pixel art, character design, and animation.
 
----
+My goal is to bridge the gap between **art and engineering** — creating games, tools, systems, and production pipelines where technical and creative skills work together.
 
-## Technical & Creative Skillset
 
-### Game Development & Programming
-* **Game Engines:** Unity, GameMaker
-* **Languages & Frameworks:** C#, GML (GameMaker Language), .NET Framework, Python, JavaScript, HTML5/CSS3
-* **Game Architecture:** Object-Oriented Programming (OOP), State Machines, Object Pooling, Custom Camera & Movement Systems
-* **Tools & Workflows:** Git, GitHub, Visual Studio, Visual Studio Code, Version Control Pipelines
-
-### Art, Animation & Asset Production
-* **Creative Software:** Clip Studio Paint, Aseprite, Adobe Photoshop, Autodesk Maya, Cinema 4D, Premiere Pro
-* **Art Disciplines:** 2D Digital Illustration, Concept Art, Pixel Art, Character Design, Storyboarding, 2D/3D Animation
-
-### Systems & Computer Proficiency
-* **Technical Knowledge:** Computer Hardware Diagnostics & Assembly, Virtualization (Oracle VirtualBox), Networking Fundamentals, Windows Server Administration
+* Game development with Unity & GameMaker
+* C# / .NET and software development
+* 2D illustration, pixel art & character design
+* 2D/3D animation & technical art
+* Computer systems, hardware & Windows administration
+* B.A. Cartoon & Animation · B.S. Management Information Systems
 
 ---
 
-## Featured Projects & Technical Milestones
+## Tech Stack
 
-| Project | Role / Category | Overview | Primary Stack |
-| :--- | :--- | :--- | :--- |
-| **Spore The Boss** | Lead Artist & Developer | **StartGate Game Jam '25 Top 20 / 255 Teams**. Single-handedly crafted all 2D visual concepts, character illustrations, and sprite sheets under strict jam time constraints. | GameMaker (GML) |
-| **Project Lacuna** | Developer & Designer | 2D Narrative Horror & Puzzle project focusing on core gameplay mechanics, atmosphere, and GDD documentation. | Unity (C#), Obsidian |
-| **Gem Dash** | Developer & Artist | Procedural mobile game featuring object pooling systems, performance optimization, and mobile push notification integration. | Unity (C#) |
+### Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat-square\&logo=gamemaker\&logoColor=white)
+
+**Unity · GameMaker · C# · GML**
+
+### Programming & Software
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+**OOP · State Machines · Object Pooling · Git · GitHub · Visual Studio**
+
+### Art & Animation
+
+**Clip Studio Paint · Aseprite · Photoshop · Autodesk Maya · Cinema 4D**
+
+**2D Illustration · Pixel Art · Character Design · Storyboarding · 2D/3D Animation**
+
+### Systems & IT
+
+**Windows · Windows Server · Virtualization · Networking Fundamentals · Hardware Diagnostics**
 
 ---
 
-## Education & Certifications
+## Featured Projects
 
-### Education
-* **B.S. Management Information Systems** — Istanbul University (2026 – Present)
-* **B.A. Cartoon & Animation** — Maltepe University (Full Scholarship, 2018 – 2022)
+### Project Lacuna
 
-### Certifications
+**2D Narrative Horror / Puzzle Game**
+
+A story-driven project built around infiltration, examination mechanics, exploration, and a dystopian school environment.
+
+**Tech:** Unity · C# · Obsidian
+
+Currently focused on gameplay systems, architecture, level design, and narrative development.
+
+---
+
+### Spore The Boss
+
+**GameMaker Game Jam Project**
+
+Ranked **Top 20 out of 255 teams** at StartGate Game Jam '25.
+
+Responsible for the game's programming and visual production, including character design, illustrations, sprites, and gameplay implementation under a strict game-jam deadline.
+
+**Tech:** GameMaker · GML · 2D Art
+
+---
+
+### Gem Dash
+
+**Procedural Mobile Game**
+
+A mobile prototype focused on procedural gameplay, object pooling, performance optimization, and mobile-specific systems.
+
+**Tech:** Unity · C#
+
+---
+
+## Education
+
+**B.S. Management Information Systems**
+Istanbul University · 2026 – Present
+
+**B.A. Cartoon & Animation**
+Maltepe University · 2018 – 2022
+Full Scholarship
+
+---
+
+## Certifications
+
+* **ITIL® 5 Foundation** — PeopleCert
+* **Microsoft Azure Fundamentals (AZ-900)** — Microsoft
 * **C# Certification** — Microsoft
-* **ITIL® 5 Foundation Certification** — PeopleCert
-* **Microsoft Azure Fundamentals (AZ-900)** — Mıcrosoft
 * **JavaScript Algorithms and Data Structures** — freeCodeCamp
-* **Responsive Web Design (HTML/CSS)** — freeCodeCamp
-* **Gamification Academy & Erasmus+ Bootcamp** — Selected Top 7 Participant (Macedonia)
+* **Responsive Web Design** — freeCodeCamp
+* **Gamification Academy & Erasmus+ Bootcamp** — Top 7 Participant
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FrizzyNeko&show_icons=true&theme=dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrizzyNeko&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrizzyNeko&show_icons=true&theme=dark&hide_border=true" alt="FrizzyNeko's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrizzyNeko&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+### Building games where art meets code.
 
 </div>

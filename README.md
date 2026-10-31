@@ -8,7 +8,7 @@
 
 **Unity / C# · GameMaker / GML · 2D Art · Animation**
 
-[Website](https://frizzyneko.github.io/)  · [ArtStation](https://artstation.com/frizzyneko) 
+[Linktree](https://linktr.ee/frizzyneko)  · [ArtStation](https://artstation.com/frizzyneko) 
 
 </div>
 
